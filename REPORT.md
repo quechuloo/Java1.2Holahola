@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 **В результате тестирования выявлены следующие дефекты:**
-* [Ошибка при пополнение счёта VIP клиента](https://github.com/quechuloo/Java1.2Holahola/issues/1)
+* [Программа неверно подсчитывает баланс после пополения счёта.](https://github.com/quechuloo/Java1.2Holahola/issues/1)
 
 
 **В качестве тестовых данных использовались данные**  [с источника](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
